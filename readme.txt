@@ -1,7 +1,7 @@
 - A program which asks customer for file which contains the list of items in stock (database). Customer types the file and if the spelling is wrong, program prompts the
 customer to type again until the correct .csv file is located.
 
-- When the list (database) is located, the program displays the items in stock and asksthe customer to type desired product choosing from the displayed list.
+- When the list (database) is located, the program displays the items in stock and asks the customer to type desired product choosing from the displayed list.
 
 - Program then asks customer to type the quantity to buy in figures. If user types a number more than the quantity in stock, program tells customer there isn’t enough
 stock and displays available stock. Then asks customer to type quantity again.
